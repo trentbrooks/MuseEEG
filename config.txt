@@ -1,0 +1,2 @@
+ADDRESS=osc.udp://localhost:5000
+DEVICE=/dev/tty.Muse-RN-iAP
