@@ -1,0 +1,8 @@
+
+# ignore these
+.DS_Store
+muse_recording.*
+
+
+# don't ignore the .gitignore file
+!.gitignore
